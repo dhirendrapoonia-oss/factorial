@@ -81,6 +81,6 @@ Marks: 87.5
 
 ## 👩‍💻 Author
 
-**Kanishka Tripathi**
+**Dhirendra Poonia**
 
-GitHub: [Kanishka-Tripathi2007](https://github.com/Kanishka-Tripathi2007)
+GitHub: [Kanishka-Tripathi2007](https://github.com/dhirendrapoonia-oss)
